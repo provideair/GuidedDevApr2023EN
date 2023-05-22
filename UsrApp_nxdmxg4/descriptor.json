@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "20b71079-eca8-4775-b990-bafaf17279c1",
+    "Name": "UsrApp_nxdmxg4",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_nxdmxg4.csproj",
+    "DependsOn": []
+  }
+}
