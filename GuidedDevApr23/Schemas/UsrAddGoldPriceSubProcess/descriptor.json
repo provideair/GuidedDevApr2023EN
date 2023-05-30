@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "da0e649e-ae7f-4760-a608-b3e426bf43cb",
+    "Name": "UsrAddGoldPriceSubProcess",
+    "ModifiedOnUtc": "\/Date(1685464681000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add gold price subprocess",
+    "DependsOn": []
+  }
+}
