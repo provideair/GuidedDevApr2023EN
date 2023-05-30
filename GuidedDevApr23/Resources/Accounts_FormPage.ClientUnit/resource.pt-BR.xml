@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ContractAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.ContractExpansionPanel_title.Value" Value="Contratos" />
+			<Item Name="LocalizableStrings.ContractExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.ContractImportDataButton_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.ContractRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.ContractSearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.ContractSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.DocumentAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.DocumentExpansionPanel_title.Value" Value="Documentos" />
+			<Item Name="LocalizableStrings.DocumentExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.DocumentmportDataButton_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.DocumentRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.DocumentSearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.DocumentSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_6b3ust1_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_8epadep_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ssiwb80_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_03wom8t_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_xganuq6_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_msrri9a_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_thtkccr_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_8j1uh8h_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.LeadAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.LeadExpansionPanel_title.Value" Value="MQL/SQL" />
+			<Item Name="LocalizableStrings.LeadExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.LeadImportDataButton_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.LeadRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.LeadSearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.LeadSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.OpportunityAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.OpportunityExpansionPanel_title.Value" Value="Oportunidades" />
+			<Item Name="LocalizableStrings.OpportunityExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.OpportunityImportDataButton_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.OpportunityRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.OpportunitySearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.OpportunitySettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.OrderAddButton_caption.Value" Value="Novo" />
+			<Item Name="LocalizableStrings.OrderExpansionPanel_title.Value" Value="Pedidos" />
+			<Item Name="LocalizableStrings.OrderExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.OrderImportDataButton_caption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.OrderRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.OrderSearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.OrderSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.RecommendedProductExpansionPanel_title.Value" Value="Produtos recomendados" />
+			<Item Name="LocalizableStrings.RecommendedProductExportDataButton_caption.Value" Value="Exportar para Excel" />
+			<Item Name="LocalizableStrings.RecommendedProductRefreshButton_caption.Value" Value="Atualizar" />
+			<Item Name="LocalizableStrings.RecommendedProductSearchFilter_placeholder.Value" Value="Pesquisar" />
+			<Item Name="LocalizableStrings.RecommendedProductSettingsButton_caption.Value" Value="Ações" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Vendas" />
+		</Items>
+	</Group>
+</Resources>

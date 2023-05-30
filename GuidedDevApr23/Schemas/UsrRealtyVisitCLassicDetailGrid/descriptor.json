@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "678098c9-430d-4cc5-8b97-c010c3329f1d",
+    "Name": "UsrRealtyVisitCLassicDetailGrid",
+    "ModifiedOnUtc": "\/Date(1685364623000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Realty visit (classic)\"",
+    "DependsOn": []
+  }
+}

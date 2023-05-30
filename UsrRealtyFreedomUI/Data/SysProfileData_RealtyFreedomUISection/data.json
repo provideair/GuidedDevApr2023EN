@@ -1,0 +1,51 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bf544ea9-7b06-48b8-a5f7-aa8c12c5d263"
+        },
+        {
+          "SchemaColumnUId": "03a27b75-6d7f-4be4-b0fd-f03ffd8a7aab",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "216b38f5-e2c3-462b-ae2e-1df80fc21b33",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "3bb9d182-ad73-4379-9d51-2003c862a90c",
+          "Value": "Schema__UsrRealtyFreedomUI_ListPage"
+        },
+        {
+          "SchemaColumnUId": "6851587b-0b7a-45cb-a5a5-31994420d81b",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "986fc9ee-72b2-4cc9-af5e-ed64af54d30f",
+          "Value": "eyJuYW1lIjoiQTI5QTNCQTUtNEIwRC1ERTExLTlBNTEtMDA1MDU2QzAwMDA4Iiwic2NoZW1hIjp7InZpZXdDb25maWdEaWZmIjpbeyJvcGVyYXRpb24iOiJtZXJnZSIsIm5hbWUiOiJEYXRhVGFibGUiLCJ2YWx1ZXMiOnsiY29sdW1ucyI6W3siaWQiOiJmMjUyZjU4MS0wY2NmLTQ0YWMtYjdjOS1jMDBkZjJhZDk5MTkiLCJjb2RlIjoiUERTX1Vzck5hbWUiLCJjYXB0aW9uIjoiI1Jlc291cmNlU3RyaW5nKFBEU19Vc3JOYW1lKSMiLCJkYXRhVmFsdWVUeXBlIjoxfSx7ImlkIjoiYzg2ODlkNzgtODBiYS00ZTcxLThjZjItZmE0NzhlM2JlNWJjIiwiY29kZSI6IlBEU19DcmVhdGVkT24iLCJjYXB0aW9uIjoiI1Jlc291cmNlU3RyaW5nKFBEU19DcmVhdGVkT24pIyIsImRhdGFWYWx1ZVR5cGUiOjd9LHsiaWQiOiJmZDRiMzQ4NS1hNDZlLTQyMTktYjc3NS1hZGVmMTIxMGZlNTEiLCJjb2RlIjoiUERTX0NyZWF0ZWRCeSIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX0NyZWF0ZWRCeSkjIiwiZGF0YVZhbHVlVHlwZSI6MTB9LHsiaWQiOiJjYjNlYmZhYi1kZDZmLWY5NDEtOGNkZi1lZDMxNjdjYjU2MWUiLCJjb2RlIjoiUERTX1VzclR5cGUiLCJwYXRoIjoiVXNyVHlwZSIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX1VzclR5cGUpIyIsImRhdGFWYWx1ZVR5cGUiOjEwLCJyZWZlcmVuY2VTY2hlbWFOYW1lIjoiVXNyUmVhbHR5VHlwZUZyZWVkb21VSSJ9XX19XSwidmlld01vZGVsQ29uZmlnIjp7ImF0dHJpYnV0ZXMiOnsiSXRlbXMiOnsidmlld01vZGVsQ29uZmlnIjp7ImF0dHJpYnV0ZXMiOnsiUERTX1VzclR5cGUiOnsibW9kZWxDb25maWciOnsicGF0aCI6IlBEUy5Vc3JUeXBlIn19fX0sIm1vZGVsQ29uZmlnIjp7InNvcnRpbmdDb25maWciOnsiZGVmYXVsdCI6bnVsbH19fSwiSXRlbXNTb3J0aW5nIjp7InZhbHVlIjpbeyJkaXJlY3Rpb24iOiJhc2MiLCJjb2x1bW5OYW1lIjoiQ3JlYXRlZE9uIn1dfX19LCJtb2RlbENvbmZpZyI6eyJkYXRhU291cmNlcyI6eyJQRFMiOnsiY29uZmlnIjp7ImF0dHJpYnV0ZXMiOnsiVXNyTmFtZSI6eyJwYXRoIjoiVXNyTmFtZSJ9LCJDcmVhdGVkT24iOnsicGF0aCI6IkNyZWF0ZWRPbiJ9LCJDcmVhdGVkQnkiOnsicGF0aCI6IkNyZWF0ZWRCeSJ9LCJVc3JUeXBlIjp7InBhdGgiOiJVc3JUeXBlIn19fX19fX0sImxvY2FsaXphYmxlSW1hZ2VzIjp7fSwibG9jYWxpemFibGVTdHJpbmdzIjp7fX0="
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1685281563167+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "99d21524-ccad-45c1-998d-e9de6a6412af",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1685281563167+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "fd26b95c-06ba-4595-915e-bc5657d10842",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

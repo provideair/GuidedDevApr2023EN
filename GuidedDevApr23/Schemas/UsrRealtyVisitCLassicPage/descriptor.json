@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "688db254-5dcf-4176-9f8a-00b942681c9c",
+    "Name": "UsrRealtyVisitCLassicPage",
+    "ModifiedOnUtc": "\/Date(1685368596000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty visit (classic)",
+    "DependsOn": []
+  }
+}
